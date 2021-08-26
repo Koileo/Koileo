@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liewoi&label=Profile%20views&color=0e75b6&style=flat" alt="liewoi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liewoi" alt="liewoi" /></a> </p>
 
 - 🌱 I’m currently learning **C++ Python3.9 GO Docker**
 
