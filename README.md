@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning China
 - 📫 How to reach me 18211817673@qq.com
 ![info](https://github-readme-stats.vercel.app/api?username=liewoi&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
-
-
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liewoi&theme=default_repocard&layout=compact)
 
 
