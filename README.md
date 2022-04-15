@@ -16,6 +16,5 @@
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liewoi&show_icons=true&locale=en" alt="liewoi" /></p>
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liewoi&" alt="liewoi" /></p>
 
 #### <a href="https://gist.github.com/liewoi/45872ddb83b4df82a4fafb51eccd0d4b/raw/799cdce0196829b419e88fbaeacca4eeefb26eff/%25F0%259F%258E%25AE%2520Steam%2520playtime%2520leaderboard" target="_blank">🎮 最近我在玩…</a>
