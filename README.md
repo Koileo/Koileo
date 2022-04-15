@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koileo</h1>
 <h3 align="center">A junior high school technical house</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liewoi&label=Profile%20views&color=0e75b6&style=flat" alt="liewoi" /> </p>
+<p align="left"> <img src="https://count.getloli.com/get/@:koileo" alt="liewoi" /> </p>
 
 
 - 🌱 I’m currently learning **C++ Python3.9 GO Docker**
