@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **I don't Konw**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liewoi&show_icons=true&locale=en&layout=compact" alt="liewoi" /></p>
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liewoi&show_icons=true&locale=en" alt="liewoi" /></p>
 
