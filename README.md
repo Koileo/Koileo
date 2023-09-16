@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **C++ Python3.9 GO Docker**
 
-- 📝 I regularly write articles on [https://www.koileo.com](https://www.koileo.com)
+- 📝 I regularly write articles on [https://www.koileo.me](https://www.koileo.me)
 
-- 📫 How to reach me **me@koileo.com**
+- 📫 How to reach me **me@koileo.me**
 
 - ⚡ Fun fact **I don't Konw**
 
