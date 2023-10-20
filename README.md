@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koileo</h1>
-<h3 align="center">A senior high school technical house</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://count.getloli.com/get/@:koileo" alt="liewoi" /> </p>
 
