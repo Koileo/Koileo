@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://count.getloli.com/get/@:koileo" alt="liewoi" /> </p>
 
 
-- 🌱 I’m currently learning **C++ Python3.9 GO Docker**
+- 🌱 I’m currently learning **C++ Python GO Docker**
 
 - 📝 I regularly write articles on [https://www.koileo.me](https://www.koileo.me)
 
