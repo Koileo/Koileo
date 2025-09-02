@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koileo</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="ttps://count.getloli.com/get/@:koileo" alt="koileo" /> </p>
+<p align="left"> <img src="https://count.getloli.com/get/@:koileo" alt="koileo" /> </p>
 
 
 - 🌱 I’m currently learning **C++ Python GO Docker**
