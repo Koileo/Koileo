@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **C++ Python GO Docker**
 
-- 📝 I regularly write articles on [https://www.koileo.top](https://www.koileo.top)
+- 📝 You can view my personal website for more information [https://www.koileo.top](https://www.koileo.top)
 
-- 📫 How to reach me **me@koileo.me**
-
-- ⚡ Fun fact **I don't Konw**
+- 📫 How to reach me **koileo@xnn.ee**
 
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koileo&show_icons=true&locale=en" alt="Koileo" /></p>
